@@ -1,6 +1,6 @@
 # 基于容器的CTF平台
 ## 一、架构
-![](http://img.st0n3.org/waterdropctf/waterdropctf%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%8B%86%E5%88%86.png)
+![](https://st0n3-img.obs.cn-south-1.myhuaweicloud.com/waterdropctf/waterdropctf%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%8B%86%E5%88%86.png)
 
 ## 二、roadmap
 
