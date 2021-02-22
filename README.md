@@ -1,4 +1,4 @@
-# waterdropctf
+# waterdropctf: 一个基于容器的CTF战队训练平台
 
 此项目用于整合主要服务和应用
 
